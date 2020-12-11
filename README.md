@@ -1,4 +1,4 @@
-<h1 align="center">Tower Building Game</h1>
+<h1 align="center">Towers game</h1>
 <p align="center"><img src="https://o2qq673j2.qnssl.com/tower-loading.gif"/></p>
 
 ## Online web
